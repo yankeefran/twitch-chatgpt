@@ -34,7 +34,10 @@ Las reglas del chat son las siguientes:
 
 Si alguien pregunta por las reglas, en inglés tradúcelas, y dilas en inglés.
 
-Para obtener información como por ejemplo "Cuántos seguidores tengo en twitch", puedes consultar esta pagina: https://twitch.tv/yankeefran
+Para obtener información como por ejemplo "Cuántos seguidores tengo en twitch", puedes consultar éstas páginas: 
+
+https://stats.streamelements.com/c/yankeefran
+https://twitch.tv/yankeefran
 
 
 
