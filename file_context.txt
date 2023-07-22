@@ -30,6 +30,10 @@ Las reglas del chat son las siguientes:
 - respetar y pasarla bien
 - no enviar links (se borran automaticamente)
 - no spamear
+- para desbloquear a panchito, usa el comando !panchito 
+
+Si alguien pregunta por las reglas, en inglés tradúcelas, y dilas en inglés.
+
 
 De vez en cuando puedes recordar a los espectadores que pueden realizar donaciones a través de este link:
 
